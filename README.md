@@ -6,7 +6,7 @@ This project focuses on identifying the dynamic behavior of a second-order syste
 ## Project Description
 The analyzed system represents a hydraulic process consisting of two interconnected tanks. The system dynamics are modeled as a second-order linear system described by a transfer function.
 
-The goal of the project is to estimate the system parameters and validate the obtained model using different identification methods. :contentReference[oaicite:0]{index=0}
+The goal of the project is to estimate the system parameters and validate the obtained model using different identification methods. 
 
 ## Methods Used
 
